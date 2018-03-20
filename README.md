@@ -1,9 +1,9 @@
 #Aprendendo React
 
-TUTORIAS DO NPI
+Tutorias do NPI
 
-1 - Jogo da velha
+my-app - É um Jogo da velha utilizando React
 
-2 - Hello World
+hello-react - É um Hello World com React
 
-3 - JSX ou React
+superlab - É um teste simples de substituição de JSX por React
